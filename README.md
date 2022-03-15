@@ -10,4 +10,4 @@ Please click here to see our detailed report.[report](
 https://github.com/hongjungg666/Data-Visuallization_HR_analysis/blob/master/Final%20Presentation.pdf)
 
 ## Code
-Code(https://github.com/hongjungg666/Data-Visuallization_HR_analysis/blob/master/Code%20-%20Group%2011.pdf)
+[Code](https://github.com/hongjungg666/Data-Visuallization_HR_analysis/blob/master/Code%20-%20Group%2011.pdf)
