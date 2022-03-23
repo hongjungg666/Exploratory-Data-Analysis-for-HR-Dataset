@@ -1,4 +1,4 @@
-# Data-Visualization_HR_analysis
+# Exploratory Data Analysis for HR Data Set
 
 ## Project description
 The goal of this project is that we want to know what makes the employees stay or leave the company. 
