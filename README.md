@@ -1,4 +1,4 @@
-# Data-Visuallization_HR_analysis
+# Data-Visualization_HR_analysis
 
 ## Project description
 The goal of this project is that we want to know what makes the employees stay or leave the company. 
